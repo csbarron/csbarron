@@ -1,1 +1,1 @@
-![Grid](relative/path/to/img.jpg?raw=true "Grid")
+![Grid](https://raw.githubusercontent.com/csbarron/csbarron/main/grid-snake.svg "Grid")
